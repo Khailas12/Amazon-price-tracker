@@ -64,7 +64,5 @@ def send_mail():
 
 check_price()
 
-
-
 # # Exteneded HELO (EHLO) is an Extended Simple Mail Transfer Protocol (ESMTP) command sent by an email server to identidy itself when it is connecting to another email server to start the process of sending an email.
 # # It is followed with the sending email server's domain name.
