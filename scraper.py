@@ -1,5 +1,5 @@
-import requests     # To acess URL
 from bs4 import BeautifulSoup
+import requests     # To acess URL
 import smtplib
 import re
 import time
