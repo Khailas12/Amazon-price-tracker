@@ -35,7 +35,6 @@ def check_price():
         send_mail()
 
 
-
 def send_mail():
     # 587 is the connection number
     server = smtplib.SMTP('smtp.gmail.com', 587)
